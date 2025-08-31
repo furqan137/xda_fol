@@ -42,12 +42,12 @@ export const worksProjects: Project[] = [
 ];
 
 export const pastWorksProjects: Project[] = [
-  { id: 1, title: 'Whispering Woods', description: 'See Details', image: pastwork1, link: '/crystalvision' },
-  { id: 2, title: 'Neon Dystopia', description: 'See Details', image: pastwork2, link: '/crystalvision' },
-  { id: 3, title: 'Geometric Harmony', description: 'See Details', image: pastwork3, link: '/crystalvision' },
-  { id: 4, title: 'Android Soul', description: 'See Details', image: pastwork4, link: '/crystalvision' },
-  { id: 5, title: 'Zen Garden', description: 'See Details', image: pastwork5, link: '/crystalvision' },
-  { id: 6, title: 'Pixel Perk Cafe', description: 'See Details', image: pastwork6, link: '/crystalvision' },
+  { id: 1, title: 'Whispering Woods', description: 'See Details', image: pastwork1, link: '/crystalvision', category: 'digital_art' },
+  { id: 2, title: 'Neon Dystopia', description: 'See Details', image: pastwork2, link: '/crystalvision', category: 'digital_art' },
+  { id: 3, title: 'Geometric Harmony', description: 'See Details', image: pastwork3, link: '/crystalvision', category: 'abstract' },
+  { id: 4, title: 'Android Soul', description: 'See Details', image: pastwork4, link: '/crystalvision', category: 'digital_art' },
+  { id: 5, title: 'Zen Garden', description: 'See Details', image: pastwork5, link: '/crystalvision', category: 'digital_art' },
+  { id: 6, title: 'Pixel Perk Cafe', description: 'See Details', image: pastwork6, link: '/crystalvision', category: 'branding' },
 ];
 
 export const playgroundProjects: Project[] = [
